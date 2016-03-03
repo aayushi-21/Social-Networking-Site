@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/Register.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>46</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/Discussion.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/model/Discussion.java</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/index.html</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/pst_answer.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/index.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/pst_question.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/control/DBConnect.java</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/chat.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/home_1.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/PostQues.html</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/message.html</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/control/UpdateDB.java</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/model/File.java</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/PostAnswer.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/model/User.java</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/model/Chat.java</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/deleteuser.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/model/Message.java</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/Register.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/message.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/model/Question.java</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/web/logout.jsp</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/model/Answer.java</file>
+            <file>file:/C:/Users/Aashu/Documents/NetBeansProjects/Project/src/java/control/post.java</file>
+        </group>
+    </open-files>
+</project-private>
